@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Azedize/Tp2.git/static/css/main.cd405f3d.css",
+    "main.js": "/Azedize/Tp2.git/static/js/main.c5084d63.js",
+    "index.html": "/Azedize/Tp2.git/index.html",
+    "main.cd405f3d.css.map": "/Azedize/Tp2.git/static/css/main.cd405f3d.css.map",
+    "main.c5084d63.js.map": "/Azedize/Tp2.git/static/js/main.c5084d63.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd405f3d.css",
+    "static/js/main.c5084d63.js"
+  ]
+}
